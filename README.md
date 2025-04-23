@@ -20,6 +20,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Procedure**
 
+
 1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
@@ -37,14 +38,18 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Developed by: RegisterNumber:*/
 
+![image](https://github.com/user-attachments/assets/1bba1c28-8109-4ed5-9d73-6d1b1e5c8d4b)
 
 **RTL realization**
+![image](https://github.com/user-attachments/assets/b7448b4a-6527-4f34-9136-1cb6036cf740)
 
-**Output:**
+**Truth table:**
+![image](https://github.com/user-attachments/assets/d81cb3bc-1b05-4354-9d9f-35c2c8c92dfd)
 
-**RTL**
+
 
 **Timing Diagram**
+![image](https://github.com/user-attachments/assets/a7573f52-a28c-4a1c-91ee-6d3672773c80)
 
 **Result:**
 
